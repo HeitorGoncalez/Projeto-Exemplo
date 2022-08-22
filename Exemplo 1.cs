@@ -10,10 +10,10 @@ namespace Programa
             char genero;
             string nome;
             idade = 20;
-            salario = 5800.5;
+            salario = 7000.5;
             altura = 1.63;
             genero = 'F';
-            nome = "Maria Silva";
+            nome = "Heitor";
             Console.WriteLine(idade);
             Console.WriteLine(salario);
             Console.WriteLine(altura);
